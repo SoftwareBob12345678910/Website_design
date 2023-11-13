@@ -1,0 +1,180 @@
+.macbook-air {
+  background-color: #e5e1c5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-color: #e5e1c5;
+  width: 1254.99px;
+  height: 837.7px;
+  position: relative;
+}
+
+.macbook-air .text-wrapper {
+  top: 27px;
+  left: 462px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #1e1e1e;
+  font-size: 36px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .rectangle {
+  width: 482px;
+  height: 497px;
+  top: 84px;
+  left: 385px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}
+
+.macbook-air .hey-there-i-am-karma {
+  position: absolute;
+  top: 225px;
+  left: 97px;
+  font-family: "Recursive", Helvetica;
+  font-weight: 700;
+  color: #1e1e1e;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .span {
+  font-style: italic;
+}
+
+.macbook-air .text-wrapper-2 {
+  font-style: italic;
+  font-size: 40px;
+}
+.macbook-air .text-wrapper-2 {
+  margin-left: -30px;
+}
+.macbook-air .p {
+  position: absolute;
+  width: 450px;
+  top: 591px;
+  left: 685px;
+  font-family: "Reem Kufi", Helvetica;
+  font-weight: 700;
+  color: #1e1e1e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-3 {
+  top: 748px;
+  left: 53px;
+  font-family: "Reem Kufi", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .overlap-group {
+  position: absolute;
+  width: 181px;
+  height: 146px;
+  top: 269px;
+  left: 1012px;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+.macbook-air .about-me {
+  position: absolute;
+  width: 153px;
+  height: 116px;
+  top: 0;
+  left: 28px;
+  transform: rotate(0.26deg);
+}
+
+
+.macbook-air .img {
+  width: 47px;
+  height: 49px;
+  top: 757px;
+  left: 368px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}
+
+
+.macbook-air .rectangle-2 {
+  width: 44px;
+  height: 45px;
+  top: 759px;
+  left: 434px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}
+
+.macbook-air .rectangle-3 {
+  width: 52px;
+  height: 52px;
+  top: 757px;
+  left: 494px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}
+
+.macbook-air .rectangle-4 {
+  width: 52px;
+  height: 50px;
+  top: 756px;
+  left: 558px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}
+
+.macbook-air .text-wrapper-5 {
+  position: absolute;
+  top: 783px;
+  left: 49px;
+  font-family: "Reem Kufi", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .rectangle-5 {
+  width: 39px;
+  height: 45px;
+  top: 779px;
+  left: 154px;
+  position: absolute;
+  transform: rotate(0.26deg);
+  object-fit: cover;
+}

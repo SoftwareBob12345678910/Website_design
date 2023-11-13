@@ -1,0 +1,240 @@
+.macbook-air {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-image: url(macbook-air-5.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1275px;
+  height: 832px;
+  position: relative;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 20px;
+  left: 493px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 700;
+  color: #e5b4c5;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 713px;
+  height: 95px;
+  top: 118px;
+  left: 73px;
+  background-color: #e5b4c5;
+}
+
+.macbook-air .participating-in {
+  position: absolute;
+  top: -14px;
+  left: 0;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .span {
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+}
+
+.macbook-air .text-wrapper-2 {
+  font-size: 48px;
+}
+
+.macbook-air .kaggle-competition {
+  position: absolute;
+  width: 429px;
+  height: 59px;
+  top: 18px;
+  left: 235px;
+}
+
+.macbook-air .div-2 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .overlap-group {
+  position: absolute;
+  width: 713px;
+  height: 95px;
+  top: 251px;
+  left: 73px;
+  background-color: #e5b4c5;
+}
+
+.macbook-air .building {
+  position: absolute;
+  top: -13px;
+  left: 29px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .building-task {
+  position: absolute;
+  width: 538px;
+  height: 59px;
+  top: 19px;
+  left: 148px;
+}
+
+.macbook-air .overlap-2 {
+  position: absolute;
+  width: 713px;
+  height: 95px;
+  top: 384px;
+  left: 73px;
+  background-color: #e5b4c5;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 25px;
+  left: 29px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+
+}
+
+.macbook-air .websites {
+  position: absolute;
+  width: 208px;
+  height: 59px;
+  top: 18px;
+  left: 190px;
+}
+
+.macbook-air .overlap-group-2 {
+  position: absolute;
+  width: 713px;
+  height: 95px;
+  top: 668px;
+  left: 73px;
+  background-color: #e5b4c5;
+}
+
+.macbook-air .overlap-3 {
+  position: absolute;
+  width: 65px;
+  height: 62px;
+  top: 17px;
+  left: 1px;
+}
+
+.macbook-air .data {
+  position: absolute;
+  top: -13px;
+  left: 0;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text {
+  position: absolute;
+  top: 3px;
+  left: 63px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .cleaning-and-data {
+  position: absolute;
+  width: 638px;
+  height: 59px;
+  top: -20px;
+  left: 75px;
+}
+
+.macbook-air .text-wrapper-4 {
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+}
+
+.macbook-air .text-wrapper-5 {
+  font-size: 32px;
+}
+
+.macbook-air .overlap-4 {
+  position: absolute;
+  width: 713px;
+  height: 95px;
+  top: 520px;
+  left: 73px;
+  background-image: url(rectangle-18.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .creating {
+  position: absolute;
+  top: -13px;
+  left: 34px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .user-personas {
+  position: absolute;
+  width: 301px;
+  height: 59px;
+  top: 22px;
+  left: 159px;
+}
+
+.macbook-air .back {
+  position: absolute;
+  width: 151px;
+  height: 78px;
+  top: 27px;
+  left: 966px;
+}

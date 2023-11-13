@@ -1,0 +1,251 @@
+.macbook-air {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-image: url(macbook-air-4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1218px;
+  height: 832px;
+  position: relative;
+}
+
+.macbook-air .overlap-group {
+  position: absolute;
+  width: 1069px;
+  height: 198px;
+  top: 51px;
+  left: 57px;
+  opacity: 0;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 18px;
+  left: 172px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+}
+
+.macbook-air .my-skill-set {
+  position: absolute;
+  width: 1069px;
+  top: 48px;
+  left: 0;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+}
+
+.macbook-air .span {
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  opacity: 0;
+}
+
+.macbook-air .text-wrapper-2 {
+  font-size: 64px;
+  opacity: 0;
+}
+
+.macbook-air .back {
+  position: absolute;
+  width: 151px;
+  height: 78px;
+  top: 0;
+  left: 598px;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 555px;
+  height: 77px;
+  top: 297px;
+  left: 41px;
+}
+
+.macbook-air .rectangle {
+  position: absolute;
+  width: 542px;
+  height: 73px;
+  top: 4px;
+  left: 0;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  width: 542px;
+  top: 9px;
+  left: 13px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .leet-code-questions {
+  position: absolute;
+  width: 432px;
+  height: 59px;
+  top: 0;
+  left: 123px;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .overlap-2 {
+  position: absolute;
+  width: 542px;
+  height: 73px;
+  top: 412px;
+  left: 41px;
+  background-image: url(rectangle-12.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .solving {
+  position: absolute;
+  top: -25px;
+  left: 16px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-5 {
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  margin-top: -10px;
+}
+
+.macbook-air .text-wrapper-6 {
+  font-size: 48px;
+}
+
+.macbook-air .kaggle-questions {
+  position: absolute;
+  width: 371px;
+  height: 59px;
+  top: 8px;
+  left: 123px;
+}
+
+.macbook-air .overlap-3 {
+  position: absolute;
+  width: 542px;
+  height: 73px;
+  top: 627px;
+  left: 41px;
+  background-image: url(rectangle-12.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .div-2 {
+  position: absolute;
+  top: -25px;
+  left: 16px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .web-sites {
+  position: absolute;
+  width: 235px;
+  height: 59px;
+  top: 0;
+  left: 139px;
+}
+
+.macbook-air .overlap-4 {
+  position: absolute;
+  width: 542px;
+  height: 73px;
+  top: 732px;
+  left: 41px;
+  background-image: url(rectangle-12.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .pygames {
+  position: absolute;
+  width: 205px;
+  height: 59px;
+  top: 7px;
+  left: 139px;
+}
+
+.macbook-air .overlap-5 {
+  position: absolute;
+  width: 542px;
+  height: 73px;
+  top: 523px;
+  left: 41px;
+  background-image: url(rectangle-12.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .text-wrapper-7 {
+  position: absolute;
+  top: 12px;
+  left: 9px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .task-automation {
+  position: absolute;
+  width: 342px;
+  height: 59px;
+  top: -5px;
+  left: 125px;
+  white-space: nowrap;
+}
+.div-3{
+  margin-top: 25px;
+  font-weight: 500;
+  margin-left: 20px;
+  font-size: 32px;
+}

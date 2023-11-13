@@ -1,0 +1,69 @@
+.macbook-air {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-image: url(macbook-air-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1224px;
+  height: 832px;
+  position: relative;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 62px;
+  left: 146px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 600;
+  color: #e5b4c5;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+}
+
+.macbook-air .i-am-a-highly {
+  position: absolute;
+  width: 1110px;
+  top: 179px;
+  left: 43px;
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 400;
+  color: #e5b4c5;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+
+}
+
+.macbook-air .span {
+  font-family: "Signika Negative", Helvetica;
+  font-weight: 400;
+  color: #e5b4c5;
+  font-size: 32px;
+  letter-spacing: 0;
+  
+}
+
+.macbook-air .text-wrapper-2 {
+  font-size: 64px;
+}
+
+.macbook-air .text-wrapper-3 {
+  font-size: 40px;
+}
+
+.macbook-air .back {
+  position: absolute;
+  width: 151px;
+  height: 78px;
+  top: 54px;
+  left: 776px;
+}
